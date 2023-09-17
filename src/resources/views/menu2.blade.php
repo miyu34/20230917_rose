@@ -12,9 +12,9 @@
   <h1>×</h1>
   <p>Home</p>
   <br>
-  <p>Registration</p>
+  <p>Logout</p>
   <br>
-  <p>Login</p>
+  <p>Mypage</p>
 </body>
 
 </html>
